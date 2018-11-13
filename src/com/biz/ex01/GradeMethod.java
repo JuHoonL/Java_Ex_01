@@ -22,9 +22,6 @@ public class GradeMethod {
 		
 		
 		System.out.println("성적 총점 = " + Sum);
-		
-		
-	
 
 	}
 	public static int gradeSum(int intkorGrade, int intengGrade, int intmathGrade) {
